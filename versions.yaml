@@ -1,2 +1,3 @@
-- latest version: "0.9.5"
-- mandatory update from: "0.9.4"
+versions:
+  - latest version: "0.9.5"
+  - mandatory update from: "0.9.4"
